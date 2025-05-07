@@ -13,17 +13,17 @@
 <tbody>
 <tr>
 <td align="center" style="padding: 20px;">
-  <a href="https://github.com/Aeri0730" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="" target="_blank" rel="noopener noreferrer nofollow">
     <img src="" alt="이승현" width="120" height="120" style="max-width: 100%;">
   </a>
 </td>
 <td align="center" style="padding: 20px;">
-  <a href="https://github.com/Jihyeoniiiii" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="" target="_blank" rel="noopener noreferrer nofollow">
     <img src="" alt="김윤주" width="120" height="120" style="max-width: 100%;">
   </a>
 </td>
 <td align="center" style="padding: 20px;">
-  <a href="https://github.com/MinSang22Kim" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://github.com/kkkalmi" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://avatars.githubusercontent.com/u/129710240?s=400&u=cb0fddf91b95347b463ef918e3a6438df1f9e0e6&v=4" alt="김건우" width="120" height="120" style="max-width: 100%;">
   </a>
 </td>
