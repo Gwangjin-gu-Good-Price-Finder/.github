@@ -5,12 +5,9 @@
 <table>
 <thead>
 <tr>
-<td align="center">FE</td>
-<td align="center">FE</td>
-<td align="center">BE</td>
-<td align="center">BE</td>
-<td align="center">BE</td>
-<td align="center">AI</td>
+<td align="center">Data Analysis</td>
+<td align="center">Data Analysis</td>
+<td align="center">Full-Stack Web Development</td>
 </tr>
 </thead>
 <tbody>
